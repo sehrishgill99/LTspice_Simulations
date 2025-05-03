@@ -1,0 +1,21 @@
+Circuit: * C:\Users\Laptop wala\Desktop\Sem8\PELab\Lab2\lab2.asc
+
+.OP point found by inspection.
+
+Date: Mon Apr 21 14:24:56 2025
+Total elapsed time: 0.189 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 4965
+traniter = 4965
+tranpoints = 2072
+accept = 1825
+rejected = 247
+matrix size = 34
+fillins = 15
+solver = Normal
+Matrix Compiler1: 1.85 KB object code size  0.7/0.4/[0.2]
+Matrix Compiler2: 2.53 KB object code size  0.3/0.5/[0.2]
+
